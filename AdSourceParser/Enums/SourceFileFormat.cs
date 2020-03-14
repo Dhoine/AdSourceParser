@@ -5,6 +5,6 @@
         Adblock,
         AdblockPlus,
         Hosts,
-        HostsForMac
+
     }
 }
